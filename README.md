@@ -262,6 +262,7 @@ This capstone project strengthened my ability to:
 ---
 
 
+
 # 📜 Certification
 
 Successfully completed as part of the **IBM Data Analyst Professional Certificate** program offered by IBM through Coursera.
